@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BacteriaClassificator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BacteriaClassificator_jar</output-path>
+    <root id="archive" name="BacteriaClassificator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="BacteriaClassificator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

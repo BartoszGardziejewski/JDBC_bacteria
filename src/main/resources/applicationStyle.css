@@ -1,0 +1,31 @@
+.gen-table{
+
+    -fx-background-radius: 16;
+    -fx-background-color: rgb(50, 50, 50);
+    -fx-text-fill: rgb(220 ,220 ,220);
+    -fx-padding: 4;
+}
+
+ScrollPane{
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+}
+ScrollPane > .viewport{
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+}
+ScrollPane ScrollBar:vertical{
+    -fx-background-color: transparent;
+}
+ScrollPane .corner{
+    -fx-background-color: transparent;
+}
+
+.gen-column{
+
+    -fx-border-style: hidden solid hidden hidden;
+    -fx-border-color: rgb(220, 220, 220);
+}
+.gen-column Label{
+    -fx-text-fill: rgb(220, 220, 220);
+}

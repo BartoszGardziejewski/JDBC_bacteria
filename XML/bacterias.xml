@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <bacterias>
+        <bacteria>
+            <genotype>421734</genotype>
+            <gClass>5b</gClass>
+        </bacteria>
+        <bacteria>
+            <genotype>151343</genotype>
+            <gClass>4a</gClass>
+        </bacteria>
+        <bacteria>
+            <genotype>286568</genotype>
+            <gClass>5c</gClass>
+        </bacteria>
+        <bacteria>
+            <genotype>917105</genotype>
+            <gClass>6p</gClass>
+        </bacteria>
+        <bacteria>
+            <genotype>141083</genotype>
+            <gClass>2p</gClass>
+        </bacteria>
+        <bacteria>
+            <genotype>360158</genotype>
+            <gClass>4w</gClass>
+        </bacteria>
+        <bacteria>
+            <genotype>891035</genotype>
+            <gClass>0n</gClass>
+        </bacteria>
+        <bacteria>
+            <genotype>588664</genotype>
+            <gClass>6n</gClass>
+        </bacteria>
+    </bacterias>
+</data>
